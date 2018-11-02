@@ -5,6 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "blueimp-md5": "^2.10.0",
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.4",
     "mongoose": "^5.3.8",
     "nodemon": "^1.18.5"
@@ -13,8 +14,6 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-
-
   "author": "",
   "license": "ISC"
 }
